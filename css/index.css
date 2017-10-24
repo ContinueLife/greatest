@@ -183,8 +183,7 @@ section {
 	height: 40px;
 	line-height: 35px;
 	font-size: 16px;
-	color: #ffffff;
-	text-align: center
+	color: #ffffff;	text-align: center
 }
 
 .sports {
@@ -194,8 +193,7 @@ section {
 	top: 0;
 	width: 100%;
 	height: 50px;
-	background: #fff url("http://i1.sinaimg.cn/dy/pc/2014-07-04/images/sports.jpg") center center no-repeat;
-	background-size: 100px auto
+	background: #fff url("http://i1.sinaimg.cn/dy/pc/2014-07-04/images/sports.jpg") center center no-repeat;	background-size: 100px auto
 }
 
 .asiancup {
@@ -216,7 +214,7 @@ section {
 }
 
 .page h3 {
-	font-size: 14px;
+	font-size: 10px;
 	color: #1a1a1a;
 	margin: 15px 20px 10px
 }
@@ -261,7 +259,7 @@ section {
 .title p {
 	line-height: 22px;
 	font-size: 18px;
-	color:#FC0;
+	color:#ff8040;
 	background-color: rgba(255, 255, 255, 0.2);
 	font-weight: 600;
     margin: 20px auto;
